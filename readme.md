@@ -1,2 +1,4 @@
 Real-Life-Application-of-DSA
-Some real life projects using data structures and algorithms. Inspiration - Coding Blocks
+Some real life projects using data structures and algorithms. 
+<br>
+Google Maps shortcut by using dijstra algorithms
